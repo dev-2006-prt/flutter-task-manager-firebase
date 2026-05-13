@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBd6RwjMsKuDgnHEqHMGTTADSfv8mB5Is8',
+
     appId: '1:370241594489:web:80f0cc515f3380bedee0a8',
     messagingSenderId: '370241594489',
     projectId: 'task-manger-dac11',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA1WmGlGTrJL_iT1-G7uiibhlF8nJH3eu4',
+  
     appId: '1:370241594489:android:4130182137d4755ddee0a8',
     messagingSenderId: '370241594489',
     projectId: 'task-manger-dac11',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBMHHS0ESJJNJEFtg7H4Q_0A-_w8W5ng3U',
+   
     appId: '1:370241594489:ios:c980309e2a92c46cdee0a8',
     messagingSenderId: '370241594489',
     projectId: 'task-manger-dac11',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBMHHS0ESJJNJEFtg7H4Q_0A-_w8W5ng3U',
+  
     appId: '1:370241594489:ios:c980309e2a92c46cdee0a8',
     messagingSenderId: '370241594489',
     projectId: 'task-manger-dac11',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBd6RwjMsKuDgnHEqHMGTTADSfv8mB5Is8',
+
     appId: '1:370241594489:web:83e563d44ea484b9dee0a8',
     messagingSenderId: '370241594489',
     projectId: 'task-manger-dac11',
